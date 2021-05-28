@@ -1,4 +1,5 @@
-node_modules
-.dockerignore
-Dockerfile
-npm-debug.log
+**/node_modules
+**/.dockerignore
+**/Dockerfile
+**/npm-debug.log
+**/.gitignore
